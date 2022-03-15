@@ -2,6 +2,11 @@
 <h3 align="center">A dedicated Full Stack Web developer with a specialized skill set that enables me to build robust web applications.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan688&label=Profile%20views&color=0e75b6&style=flat" alt="rohan688" /> </p> -->
+🌱 I’m currently learning Web Development and other programming languages
+
+📫 How to reach me sahilshekh885799@gmail.com
+
+⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <h3 align="left">☕ Let's Connect</h3>
 
