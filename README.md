@@ -10,6 +10,8 @@
 ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 </p>
 
+<hr>
+
 <h3 align="left">☕ Let's Connect</h3>
 
 <p align="left">
