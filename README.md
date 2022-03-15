@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Ravindra Gaikwad</h1>
 <h3 align="center">A dedicated Full Stack Web developer with a specialized skill set that enables me to build robust web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan688&label=Profile%20views&color=0e75b6&style=flat" alt="rohan688" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan688&label=Profile%20views&color=0e75b6&style=flat" alt="rohan688" /> </p> -->
 
 <h3 align="left">☕ Let's Connect</h3>
 <p align="left">
