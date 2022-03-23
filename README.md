@@ -5,7 +5,7 @@
 <p>
 🌱 I’m currently learning Web Development and other programming languages
 
-📫 How to reach me gaikwadrohan2710.com
+📫 How to reach me gaikwadrohan2710@gmail.com
 
 ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 </p>
